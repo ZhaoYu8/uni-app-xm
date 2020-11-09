@@ -1,0 +1,1 @@
+<view class="recommend data-v-f99ed0b8"><view class="box data-v-f99ed0b8"><text class="licon licon1 data-v-f99ed0b8"></text><text class="licon data-v-f99ed0b8"></text><view class="data-v-f99ed0b8">{{text}}</view><text class="ricon ricon1 data-v-f99ed0b8"></text><text class="ricon data-v-f99ed0b8"></text></view></view>
